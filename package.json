@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "firebase": "^10.0.0"
+  },
+  "hosting": {
+    "site": "chatadda",
+    "public": "public"
+  }
+}
+
